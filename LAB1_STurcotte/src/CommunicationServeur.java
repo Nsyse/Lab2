@@ -44,6 +44,7 @@ public class CommunicationServeur {
 	 *            le serveur à la classe de communication du programme
 	 */
 	public CommunicationServeur(CommBase comm) {
+		//test
 		this.comm = comm;
 		init();
 		closingOperation();
