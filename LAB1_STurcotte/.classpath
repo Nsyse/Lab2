@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Sébastien/Desktop/work 4.0/work 4.0/Laboratoire_1/ca.etsmtl.log.util.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
